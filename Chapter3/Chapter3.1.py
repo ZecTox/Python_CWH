@@ -36,9 +36,12 @@ print(name[2:3])
 # SLICING WITH SKIP VALUE
 ## we can provide the skip value as a part ofour slice like this
 
-
 word = "amazing"
 word[1:6:2]
 
-#watched till 1:27:40
-# https://youtu.be/UrsmFxEIp5k?t=5260
+a = "0123456789"
+print(a[1:6:3])
+
+b = "abcdefghijklmnopqrstuvwxyz"
+print(b[1:9:4])
+print(b[0:10:1])
