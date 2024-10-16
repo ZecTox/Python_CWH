@@ -1,4 +1,5 @@
 # Chapter 4 - Lists and Tuples
+# We will study Lists now
 
 # Python lists are containers to store a set of values of any data type.
 friends = ["apple", "akash", "rohan", 7, "false"]
@@ -43,5 +44,3 @@ print(listname)  # Output: [21, 15, 8, 7, 2, 1]
 # 6. listname.remove(21) - removes the first occurrence of the specified value.
 listname.remove(21)  # This modifies listname in place.
 print(listname)  # Output: [15, 8, 7, 2, 1]
-
-#continue from here https://youtu.be/UrsmFxEIp5k?t=7583
